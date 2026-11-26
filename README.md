@@ -37,3 +37,7 @@ Abrir el reporte HTML de la última ejecución:
 ```bash
 npx playwright show-report
 ```
+Equipo
+- Hernández Del Angel José Ismael
+- Tello Ponce Fabian Enrique
+- Ortiz Sosa José Jareth
