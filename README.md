@@ -24,3 +24,16 @@ Instalar dependencias:
 
 ```bash
 npm install
+```
+Ejecutar toda la suite en modo visible:
+```bash
+npx playwright test --headed
+```
+Ejecutar únicamente CP-07 de forma aislada:
+```bash
+npx playwright test --headed -g "CP-07"
+```
+Abrir el reporte HTML de la última ejecución:
+```bash
+npx playwright show-report
+```
